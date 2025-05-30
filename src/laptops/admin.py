@@ -3,4 +3,4 @@ from .models import laptop
 
 # Register your models here.
 
-admin.register(laptop)
+admin.site.register(laptop)
